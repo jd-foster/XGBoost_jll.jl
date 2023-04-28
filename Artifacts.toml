@@ -1,0 +1,9 @@
+[[XGBoost]]
+arch = "x86_64"
+git-tree-sha1 = "cca027b636d63dc4e7384b593e150e594c643db9"
+lazy = true
+os = "windows"
+
+    [[XGBoost.download]]
+    sha256 = "1e02f63d64135019bddb42b67291d29485322ab8d61eed8d66a3f056ed92d3b2"
+    url = "https://github.com/jd-foster/XGBoost_jll.jl/releases/download/XGBoost-v1.7.4+1/XGBoost.v1.7.4.x86_64-w64-mingw32.tar.gz"
